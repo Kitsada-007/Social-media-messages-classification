@@ -2,3 +2,4 @@ _test.csv
 _train.csv
 _social_media_messages.csv
 output.png
+model/
